@@ -1,0 +1,18 @@
+div {
+    height: 550px;
+    width: 1200px;
+    border: 2px solid grey;
+    margin: 150px;
+    
+    background-image: url('img/image3.png');
+    background-image: url('');
+    background-image: url('img/img_1724.jpeg');
+    background-image: url('img/audi-r8.jpg');
+    background-image: url('img/empresa-rimac-nevera.jpg');
+    background-image: url('img/carros-esportivos-mais-rapidos-mundo-de-2023-2.png');
+    background-size: 100%;
+}
+
+
+  
+
